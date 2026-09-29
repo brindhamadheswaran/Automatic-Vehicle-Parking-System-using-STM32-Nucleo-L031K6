@@ -401,6 +401,8 @@ The status of each parking slot, number of available spaces, parking condition, 
 - Residential parking management
 
 ---
+OUTPUT
+<img width="1080" height="760" alt="WhatsApp Image 2026-09-29 at 12 37 16 PM" src="https://github.com/user-attachments/assets/64436504-f9ba-45de-9c8f-223eb26dbbd8" />
 
 ## Result
 
